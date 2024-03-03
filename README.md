@@ -29,10 +29,12 @@ School calendar, Vacation periods, Rainy periods, Mobility, Predictive models, G
   - [License](#license)
 
 ## Installation
-| Command | Description |
-| --- | --- | --- |
-| git status | List all new or modified files | git status |
-| git diff | Show file differences that haven't been staged | git status |
+| 1h    | 2.56 | 1.80 | 1.06 | 1.82             | 2.17 | 1.82 | 2.72          | 1.52     | 1.84 | 1.71           | 1.84             |
+|-------|------|------|------|------------------|------|------|---------------|----------|------|----------------|------------------|
+| 2h    | 4.11 | 2.20 | 1.10 | 2.36             | 2.12 | 2.15 | 3.47          | 1.29     | 2.29 | 2.00           | 2.21             |
+| 4h    | 4.65 | 2.51 | 1.39 | 2.15             | 2.53 | 3.14 | 3.21          | 1.58     | 3.30 | 2.13           | 2.77             |
+| 8h    | 4.93 | 2.74 | 1.28 | 1.99             | 2.73 | 2.67 | 3.38          | 1.53     | 2.83 | 2.34           | 2.69             |
+| Eixos | A1   | A5   | A36  | Calçada Carriche | IC16 | IC19 | IC2 (Sacavém) | Marginal | N117 | Ponte 25 Abril | Ponte Vasco Gama |
 
 
 ## Usage
