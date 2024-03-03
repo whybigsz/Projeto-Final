@@ -1,11 +1,12 @@
 # Caracterização dos movimentos pendulares nas principais vias de acesso à cidade de Lisboa
 
-## Abstract
+## Resumo
+
 Este relatório apresenta um estudo que tem como objetivo analisar os fluxos diários de 
 tráfego nas horas de ponta em Lisboa, considerando fatores como o calendário escolar, 
 períodos de férias e a ocorrência de períodos de chuva nos principais pontos de entrada e 
 saída da cidade. Utilizando dados de telemóveis, investigamos como as pessoas se 
-movimentam durante as horas de ponta da manhã (7:00h-10:00h) e da tarde (17:00h20:00h), explorando também outros períodos, como dias intensos de tráfego elevado, como 
+movimentam durante as horas de ponta da manhã (7:00h-10:00h) e da tarde (17:00h-20:00h), explorando também outros períodos, como dias intensos de tráfego elevado, como 
 a sexta-feira e o domingo. Além disso, aplicamos modelos preditivos para antecipar 
 cenários futuros de mobilidade. Esses modelos foram baseados em redes neurais 
 recorrentes (RNNs), em particular o GRU. Demostramos que esses modelos podem prever 
