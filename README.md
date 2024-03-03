@@ -30,7 +30,7 @@ School calendar, Vacation periods, Rainy periods, Mobility, Predictive models, G
 
 ## Installation
 | Command | Description |
-| --- | --- |
+| --- | --- | --- |
 | git status | List all new or modified files | git status |
 | git diff | Show file differences that haven't been staged | git status |
 
