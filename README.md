@@ -1,7 +1,21 @@
 # Projeto-Final
 
 ## Abstract
-[Provide a brief summary of your project here. Include its purpose, main features, and any unique aspects that differentiate it from similar projects. You may also want to mention the problem it solves or the target audience it serves.]
+This report presents a study aimed at analyzing the daily traffic flows during peak hours in 
+Lisbon, considering factors such as the school calendar, vacation periods, and the 
+occurrence of rainy periods at the city's main entry and exit points. Using mobile data, we 
+investigated how people move during the morning (7:00 am - 10:00 am) and afternoon 
+(5:00 pm - 8:00 pm) peak hours, as well as other periods with high traffic, such as Fridays 
+and Sundays. Additionally, we applied predictive models to anticipate future mobility 
+scenarios. These models were based on recurrent neural networks (RNNs), specifically the 
+GRU (Gated Recurrent Unit). We demonstrated that these models could predict mobile 
+traffic intensity with some accuracy, achieving error rates below 10%. Thus, enabling the 
+anticipation of future mobility scenarios and the identification of critical congestion points 
+on the main city access routes at different times of the week.
+
+Keywords: Daily traffic flows, City entry and exit points, Peak hours, Lisbon, Mobile data, 
+School calendar, Vacation periods, Rainy periods, Mobility, Predictive models, GRU 
+(Gated Recurrent Unit), Critical congestion points.
 
 ## Table of Contents
 - [Project Title](#project-title)
