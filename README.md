@@ -29,13 +29,14 @@ School calendar, Vacation periods, Rainy periods, Mobility, Predictive models, G
   - [License](#license)
 
 ## Installation
-| Prever à Frente || <td colspan="11">Merged Cells</td> | Cell 11   |
-|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|------------------|------------------|------------------|
-| Row 1, Col 1    | Row 1, Col 2    | Row 1, Col 3    | Row 1, Col 4    | Row 1, Col 5    | Row 1, Col 6    | Row 1, Col 7    | Row 1, Col 8    | Row 1, Col 9    | Row 1, Col 10    | Row 1, Col 11    | Row 4, Col 11    |
-| Row 2, Col 1    | Row 2, Col 2    | Row 2, Col 3    | Row 2, Col 4    | Row 2, Col 5    | Row 2, Col 6    | Row 2, Col 7    | Row 2, Col 8    | Row 2, Col 9    | Row 2, Col 10    | Row 2, Col 11    | Row 4, Col 11    |
-| Row 3, Col 1    | Row 3, Col 2    | Row 3, Col 3    | Row 3, Col 4    | Row 3, Col 5    | Row 3, Col 6    | Row 3, Col 7    | Row 3, Col 8    | Row 3, Col 9    | Row 3, Col 10    | Row 3, Col 11    | Row 4, Col 11    |
-| Row 4, Col 1    | Row 4, Col 2    | Row 4, Col 3    | Row 4, Col 4    | Row 4, Col 5    | Row 4, Col 6    | Row 4, Col 7    | Row 4, Col 8    | Row 4, Col 9    | Row 4, Col 10    | Row 4, Col 11    | Row 4, Col 11    |
-| Row 4, Col 1    | Row 4, Col 2    | Row 4, Col 3    | Row 4, Col 4    | Row 4, Col 5    | Row 4, Col 6    | Row 4, Col 7    | Row 4, Col 8    | Row 4, Col 9    | Row 4, Col 10    | Row 4, Col 11    | Row 4, Col 11    |
+| Column 1 Header | Column 2 Header | Column 3 Header | Column 4 Header | Column 5 Header | Column 6 Header | Column 7 Header | Column 8 Header | Column 9 Header | Column 10 Header | Column 11 Header |
+|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|------------------|------------------|
+| Prever à Frente |                 |                 |                 |                 |                 |                 |                 |                 |                  |                  |
+| Row 1, Col 1    | Row 1, Col 2    | Row 1, Col 3    | Row 1, Col 4    | Row 1, Col 5    | Row 1, Col 6    | Row 1, Col 7    | Row 1, Col 8    | Row 1, Col 9    | Row 1, Col 10    | Row 1, Col 11    |
+| Row 2, Col 1    | Row 2, Col 2    | Row 2, Col 3    | Row 2, Col 4    | Row 2, Col 5    | Row 2, Col 6    | Row 2, Col 7    | Row 2, Col 8    | Row 2, Col 9    | Row 2, Col 10    | Row 2, Col 11    |
+| Row 3, Col 1    | Row 3, Col 2    | Row 3, Col 3    | Row 3, Col 4    | Row 3, Col 5    | Row 3, Col 6    | Row 3, Col 7    | Row 3, Col 8    | Row 3, Col 9    | Row 3, Col 10    | Row 3, Col 11    |
+| Row 4, Col 1    | Row 4, Col 2    | Row 4, Col 3    | Row 4, Col 4    | Row 4, Col 5    | Row 4, Col 6    | Row 4, Col 7    | Row 4, Col 8    | Row 4, Col 9    | Row 4, Col 10    | Row 4, Col 11    |
+| Row 4, Col 1    | Row 4, Col 2    | Row 4, Col 3    | Row 4, Col 4    | Row 4, Col 5    | Row 4, Col 6    | Row 4, Col 7    | Row 4, Col 8    | Row 4, Col 9    | Row 4, Col 10    | Row 4, Col 11    |
 
 
 ## Usage
