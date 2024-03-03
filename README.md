@@ -39,6 +39,12 @@ School calendar, Vacation periods, Rainy periods, Mobility, Predictive models, G
 | 4h    | 5.93 | 3.39 | 2.26 | 2.86             | 2.89 | 3.40 | 4.28          | 1.49     | 3.47 | 2.61           | 2.59             |
 | 8h    | 5.92 | 3.96 | 1.39 | 2.49             | 2.84 | 2.84 | 3.95          | 1.85     | 4.22 | 2.36           | 2.80             |
 
+### MAPE GRU prever à frente 24h para os Eixos da Cidade de Lisboa | Lag:24*7 (1 semana)
+
+| Prever à frente | A1   | A5   | A36  | Calçada Carriche | IC16 | IC19 | IC2 (Sacavém) | Marginal | N117 | Ponte 25 Abril | Ponte Vasco Gama |
+|-------|------|------|------|------------------|------|------|---------------|----------|------|----------------|------------------|
+| 1h    | 3.86 | 2.52 | 2.22 | 2.67             | 2.14 | 2.85 | 3.16          | 1.68     | 3.59 | 2.62           | 3.28             |
+
 
 
 ## Usage
